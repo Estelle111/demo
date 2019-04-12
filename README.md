@@ -1,5 +1,5 @@
 # vuedemo
-**After 2 months and 13 days of training**
+**After 2 months and 5 days of training**
 
 ![poster](https://github.com/Estelle111/vuedemo/blob/master/public/zeroTalent.png) 
 
