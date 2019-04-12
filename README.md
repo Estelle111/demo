@@ -1,3 +1,3 @@
 # demo
 
-![poster][zeroTalent.png]
+![poster](zeroTalent.png)
