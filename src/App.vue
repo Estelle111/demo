@@ -1,17 +1,24 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <appHeader></appHeader>
+    <appTalents></appTalents>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import header from './components/header.vue';
+import talents from './components/talents.vue';
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    appHeader:header,
+    appTalents:talents
+  },
+  data() {
+    return {
+
+    }
   }
 }
 </script>
@@ -24,5 +31,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  background-image: url("assets/fruit.png");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 </style>
