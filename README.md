@@ -1,11 +1,10 @@
 # vuedemo
+**After 2 months and 13 days of training**
 
 ![poster](https://github.com/Estelle111/vuedemo/blob/master/public/zeroTalent.png) 
 
-**After 2 months and 13 days of training**
-
 ## Description
-Learning vue.js
+Learning vue.js by reproducing a poster
 
 ## Tools
 * vue
