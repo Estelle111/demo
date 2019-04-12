@@ -1,3 +1,3 @@
-# demo
+# vuedemo
 
-![poster](zeroTalent.png) 
+![poster](https://github.com/Estelle111/vuedemo/blob/master/public/zeroTalent.png) 
